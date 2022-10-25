@@ -1,6 +1,6 @@
 #  IP CHANGER
 ### Description
-  simple script to change ip  using tor 
+  simple tool to change ip  using tor 
 
 # Requirements
 just need to install python and tor.
