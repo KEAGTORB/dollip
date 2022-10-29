@@ -1,14 +1,29 @@
-#  IP CHANGER
-### Description
-  simple tool to change ip  using tor 
+# ip changer 
+ simple tool that change ip of your network using tor.
 
-# Requirements
-just need to install python and tor.
+## Getting Started
 
-`pkg install tor && python`
 
-# install
-`git clone   https://github.com/KEAGTORB/dollip `
 
-# How to run
- python run.py
+1. You need to clone this repository
+```
+https://github.com/KEAGTORB/dollip
+```
+
+2. After you clone the repo you will have to navigate to the folder
+```
+cd dollip
+```
+
+3. Then you will have to install requirments
+```
+pip install -r requirments.txt 
+```
+
+4. Finally you need to run it
+```
+python run.py
+```
+
+
+ **[connect me](https://t.me/keagtorb79)**
