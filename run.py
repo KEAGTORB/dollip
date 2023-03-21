@@ -15,18 +15,3 @@ for i in range(m):
     time.sleep(se)
     os.system("service tor reload")
     print("*Your IP has been Changed*")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
